@@ -18,7 +18,7 @@ type Price struct{}
 func (p *Price) Set(c echo.Context) error {
 	var prices []entity.Price
 	if err := c.Bind(&prices); err != nil {
-		return c.JSON(http.StatusBadRequest, response.NewErr("la estructura no es valida", nil))
+		return c.JSON(http.StatusBadRequest, response.NewErr(err.Error(), nil))
 	}
 
 	if len(prices) == 0 {

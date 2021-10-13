@@ -1,0 +1,1532 @@
+[
+  {
+    "sku_id": "15188",
+    "costPrice": 1,
+    "listPrice": 65,
+    "basePrice": 55.24
+  },
+  {
+    "sku_id": "15150",
+    "costPrice": 1,
+    "listPrice": 60,
+    "basePrice": 50.99
+  },
+  {
+    "sku_id": "15240",
+    "costPrice": 1,
+    "listPrice": 55,
+    "basePrice": 46.74
+  },
+  {
+    "sku_id": "15184",
+    "costPrice": 1,
+    "listPrice": 48,
+    "basePrice": 40.79
+  },
+  {
+    "sku_id": "15200",
+    "costPrice": 1,
+    "listPrice": 40,
+    "basePrice": 34
+  },
+  {
+    "sku_id": "15504",
+    "costPrice": 1,
+    "listPrice": 40,
+    "basePrice": 33.99
+  },
+  {
+    "sku_id": "15506",
+    "costPrice": 1,
+    "listPrice": 38,
+    "basePrice": 32.29
+  },
+  {
+    "sku_id": "15190",
+    "costPrice": 1,
+    "listPrice": 38,
+    "basePrice": 31.88
+  },
+  {
+    "sku_id": "15198",
+    "costPrice": 1,
+    "listPrice": 36,
+    "basePrice": 30.6
+  },
+  {
+    "sku_id": "15256",
+    "costPrice": 1,
+    "listPrice": 36,
+    "basePrice": 30.6
+  },
+  {
+    "sku_id": "15362",
+    "costPrice": 1,
+    "listPrice": 36,
+    "basePrice": 30.6
+  },
+  {
+    "sku_id": "15354",
+    "costPrice": 1,
+    "listPrice": 35,
+    "basePrice": 29.74
+  },
+  {
+    "sku_id": "15348",
+    "costPrice": 1,
+    "listPrice": 34,
+    "basePrice": 28.89
+  },
+  {
+    "sku_id": "15164",
+    "costPrice": 1,
+    "listPrice": 33,
+    "basePrice": 28.05
+  },
+  {
+    "sku_id": "15242",
+    "costPrice": 1,
+    "listPrice": 32,
+    "basePrice": 27.2
+  },
+  {
+    "sku_id": "15356",
+    "costPrice": 1,
+    "listPrice": 32,
+    "basePrice": 27.2
+  },
+  {
+    "sku_id": "15344",
+    "costPrice": 1,
+    "listPrice": 32,
+    "basePrice": 27.19
+  },
+  {
+    "sku_id": "15508",
+    "costPrice": 1,
+    "listPrice": 32,
+    "basePrice": 27.19
+  },
+  {
+    "sku_id": "15022",
+    "costPrice": 1,
+    "listPrice": 32,
+    "basePrice": 27.19
+  },
+  {
+    "sku_id": "15252",
+    "costPrice": 1,
+    "listPrice": 31,
+    "basePrice": 26.34
+  },
+  {
+    "sku_id": "15254",
+    "costPrice": 1,
+    "listPrice": 31,
+    "basePrice": 26.34
+  },
+  {
+    "sku_id": "15248",
+    "costPrice": 1,
+    "listPrice": 30,
+    "basePrice": 25.5
+  },
+  {
+    "sku_id": "15250",
+    "costPrice": 1,
+    "listPrice": 30,
+    "basePrice": 25.5
+  },
+  {
+    "sku_id": "15358",
+    "costPrice": 1,
+    "listPrice": 30,
+    "basePrice": 25.42
+  },
+  {
+    "sku_id": "15360",
+    "costPrice": 1,
+    "listPrice": 30,
+    "basePrice": 25.42
+  },
+  {
+    "sku_id": "15234",
+    "costPrice": 1,
+    "listPrice": 30,
+    "basePrice": 25.42
+  },
+  {
+    "sku_id": "15236",
+    "costPrice": 1,
+    "listPrice": 29,
+    "basePrice": 24.65
+  },
+  {
+    "sku_id": "15238",
+    "costPrice": 1,
+    "listPrice": 28,
+    "basePrice": 23.79
+  },
+  {
+    "sku_id": "15342",
+    "costPrice": 1,
+    "listPrice": 28,
+    "basePrice": 23.79
+  },
+  {
+    "sku_id": "15216",
+    "costPrice": 1,
+    "listPrice": 27,
+    "basePrice": 23.37
+  },
+  {
+    "sku_id": "15444",
+    "costPrice": 1,
+    "listPrice": 26,
+    "basePrice": 22.52
+  },
+  {
+    "sku_id": "15208",
+    "costPrice": 1,
+    "listPrice": 26,
+    "basePrice": 22.09
+  },
+  {
+    "sku_id": "14996",
+    "costPrice": 1,
+    "listPrice": 25,
+    "basePrice": 21.67
+  },
+  {
+    "sku_id": "15052",
+    "costPrice": 1,
+    "listPrice": 25,
+    "basePrice": 21.67
+  },
+  {
+    "sku_id": "15166",
+    "costPrice": 1,
+    "listPrice": 25,
+    "basePrice": 21.24
+  },
+  {
+    "sku_id": "15174",
+    "costPrice": 1,
+    "listPrice": 24,
+    "basePrice": 20.39
+  },
+  {
+    "sku_id": "15204",
+    "costPrice": 1,
+    "listPrice": 24,
+    "basePrice": 20.39
+  },
+  {
+    "sku_id": "15276",
+    "costPrice": 1,
+    "listPrice": 24,
+    "basePrice": 20.39
+  },
+  {
+    "sku_id": "15246",
+    "costPrice": 1,
+    "listPrice": 24,
+    "basePrice": 20.39
+  },
+  {
+    "sku_id": "14940",
+    "costPrice": 1,
+    "listPrice": 24,
+    "basePrice": 20.39
+  },
+  {
+    "sku_id": "15142",
+    "costPrice": 1,
+    "listPrice": 24,
+    "basePrice": 20.39
+  },
+  {
+    "sku_id": "15332",
+    "costPrice": 1,
+    "listPrice": 23,
+    "basePrice": 19.54
+  },
+  {
+    "sku_id": "15028",
+    "costPrice": 1,
+    "listPrice": 23,
+    "basePrice": 19.54
+  },
+  {
+    "sku_id": "15300",
+    "costPrice": 1,
+    "listPrice": 23,
+    "basePrice": 19.54
+  },
+  {
+    "sku_id": "15034",
+    "costPrice": 1,
+    "listPrice": 23,
+    "basePrice": 19.54
+  },
+  {
+    "sku_id": "15180",
+    "costPrice": 1,
+    "listPrice": 23,
+    "basePrice": 19.54
+  },
+  {
+    "sku_id": "15040",
+    "costPrice": 1,
+    "listPrice": 23,
+    "basePrice": 19.54
+  },
+  {
+    "sku_id": "15042",
+    "costPrice": 1,
+    "listPrice": 22,
+    "basePrice": 19.12
+  },
+  {
+    "sku_id": "15282",
+    "costPrice": 1,
+    "listPrice": 22,
+    "basePrice": 19.12
+  },
+  {
+    "sku_id": "15420",
+    "costPrice": 1,
+    "listPrice": 22,
+    "basePrice": 19.12
+  },
+  {
+    "sku_id": "15036",
+    "costPrice": 1,
+    "listPrice": 22,
+    "basePrice": 19.12
+  },
+  {
+    "sku_id": "15050",
+    "costPrice": 1,
+    "listPrice": 22,
+    "basePrice": 19.12
+  },
+  {
+    "sku_id": "15002",
+    "costPrice": 1,
+    "listPrice": 22,
+    "basePrice": 19.12
+  },
+  {
+    "sku_id": "15222",
+    "costPrice": 1,
+    "listPrice": 22,
+    "basePrice": 18.69
+  },
+  {
+    "sku_id": "15406",
+    "costPrice": 1,
+    "listPrice": 22,
+    "basePrice": 18.69
+  },
+  {
+    "sku_id": "15408",
+    "costPrice": 1,
+    "listPrice": 22,
+    "basePrice": 18.69
+  },
+  {
+    "sku_id": "15456",
+    "costPrice": 1,
+    "listPrice": 22,
+    "basePrice": 18.69
+  },
+  {
+    "sku_id": "15510",
+    "costPrice": 1,
+    "listPrice": 22,
+    "basePrice": 18.69
+  },
+  {
+    "sku_id": "14930",
+    "costPrice": 1,
+    "listPrice": 22,
+    "basePrice": 18.69
+  },
+  {
+    "sku_id": "15244",
+    "costPrice": 1,
+    "listPrice": 22,
+    "basePrice": 18.69
+  },
+  {
+    "sku_id": "14924",
+    "costPrice": 1,
+    "listPrice": 22,
+    "basePrice": 18.69
+  },
+  {
+    "sku_id": "15170",
+    "costPrice": 1,
+    "listPrice": 22,
+    "basePrice": 18.69
+  },
+  {
+    "sku_id": "15110",
+    "costPrice": 1,
+    "listPrice": 22,
+    "basePrice": 18.36
+  },
+  {
+    "sku_id": "15202",
+    "costPrice": 1,
+    "listPrice": 21,
+    "basePrice": 18.27
+  },
+  {
+    "sku_id": "15218",
+    "costPrice": 1,
+    "listPrice": 21,
+    "basePrice": 18.27
+  },
+  {
+    "sku_id": "15224",
+    "costPrice": 1,
+    "listPrice": 21,
+    "basePrice": 18.27
+  },
+  {
+    "sku_id": "15416",
+    "costPrice": 1,
+    "listPrice": 21,
+    "basePrice": 18.27
+  },
+  {
+    "sku_id": "15096",
+    "costPrice": 1,
+    "listPrice": 21,
+    "basePrice": 18.27
+  },
+  {
+    "sku_id": "14960",
+    "costPrice": 1,
+    "listPrice": 21,
+    "basePrice": 18.27
+  },
+  {
+    "sku_id": "14968",
+    "costPrice": 1,
+    "listPrice": 20,
+    "basePrice": 16.99
+  },
+  {
+    "sku_id": "15330",
+    "costPrice": 1,
+    "listPrice": 20,
+    "basePrice": 16.99
+  },
+  {
+    "sku_id": "15138",
+    "costPrice": 1,
+    "listPrice": 20,
+    "basePrice": 16.99
+  },
+  {
+    "sku_id": "15404",
+    "costPrice": 1,
+    "listPrice": 20,
+    "basePrice": 16.99
+  },
+  {
+    "sku_id": "15428",
+    "costPrice": 1,
+    "listPrice": 20,
+    "basePrice": 16.99
+  },
+  {
+    "sku_id": "15100",
+    "costPrice": 1,
+    "listPrice": 20,
+    "basePrice": 16.99
+  },
+  {
+    "sku_id": "15210",
+    "costPrice": 1,
+    "listPrice": 20,
+    "basePrice": 16.99
+  },
+  {
+    "sku_id": "15214",
+    "costPrice": 1,
+    "listPrice": 20,
+    "basePrice": 16.99
+  },
+  {
+    "sku_id": "15004",
+    "costPrice": 1,
+    "listPrice": 20,
+    "basePrice": 16.99
+  },
+  {
+    "sku_id": "15230",
+    "costPrice": 1,
+    "listPrice": 20,
+    "basePrice": 16.99
+  },
+  {
+    "sku_id": "14926",
+    "costPrice": 1,
+    "listPrice": 20,
+    "basePrice": 16.99
+  },
+  {
+    "sku_id": "14998",
+    "costPrice": 1,
+    "listPrice": 20,
+    "basePrice": 16.99
+  },
+  {
+    "sku_id": "15016",
+    "costPrice": 1,
+    "listPrice": 20,
+    "basePrice": 16.99
+  },
+  {
+    "sku_id": "15144",
+    "costPrice": 1,
+    "listPrice": 20,
+    "basePrice": 16.99
+  },
+  {
+    "sku_id": "15154",
+    "costPrice": 1,
+    "listPrice": 20,
+    "basePrice": 16.99
+  },
+  {
+    "sku_id": "15158",
+    "costPrice": 1,
+    "listPrice": 20,
+    "basePrice": 16.99
+  },
+  {
+    "sku_id": "15162",
+    "costPrice": 1,
+    "listPrice": 20,
+    "basePrice": 16.99
+  },
+  {
+    "sku_id": "14942",
+    "costPrice": 1,
+    "listPrice": 20,
+    "basePrice": 16.99
+  },
+  {
+    "sku_id": "14966",
+    "costPrice": 1,
+    "listPrice": 20,
+    "basePrice": 16.99
+  },
+  {
+    "sku_id": "15074",
+    "costPrice": 1,
+    "listPrice": 20,
+    "basePrice": 16.99
+  },
+  {
+    "sku_id": "15112",
+    "costPrice": 1,
+    "listPrice": 20,
+    "basePrice": 16.99
+  },
+  {
+    "sku_id": "15114",
+    "costPrice": 1,
+    "listPrice": 20,
+    "basePrice": 16.99
+  },
+  {
+    "sku_id": "15122",
+    "costPrice": 1,
+    "listPrice": 20,
+    "basePrice": 16.99
+  },
+  {
+    "sku_id": "15220",
+    "costPrice": 1,
+    "listPrice": 20,
+    "basePrice": 16.99
+  },
+  {
+    "sku_id": "15264",
+    "costPrice": 1,
+    "listPrice": 20,
+    "basePrice": 16.99
+  },
+  {
+    "sku_id": "15284",
+    "costPrice": 1,
+    "listPrice": 19,
+    "basePrice": 16.14
+  },
+  {
+    "sku_id": "15412",
+    "costPrice": 1,
+    "listPrice": 19,
+    "basePrice": 16.14
+  },
+  {
+    "sku_id": "15424",
+    "costPrice": 1,
+    "listPrice": 19,
+    "basePrice": 16.14
+  },
+  {
+    "sku_id": "15430",
+    "costPrice": 1,
+    "listPrice": 19,
+    "basePrice": 16.14
+  },
+  {
+    "sku_id": "15524",
+    "costPrice": 1,
+    "listPrice": 19,
+    "basePrice": 16.14
+  },
+  {
+    "sku_id": "14934",
+    "costPrice": 1,
+    "listPrice": 19,
+    "basePrice": 16.14
+  },
+  {
+    "sku_id": "15268",
+    "costPrice": 1,
+    "listPrice": 19,
+    "basePrice": 16.14
+  },
+  {
+    "sku_id": "15304",
+    "costPrice": 1,
+    "listPrice": 18,
+    "basePrice": 15.72
+  },
+  {
+    "sku_id": "15150",
+    "costPrice": 1,
+    "listPrice": 18,
+    "basePrice": 15.72
+  },
+  {
+    "sku_id": "15152",
+    "costPrice": 1,
+    "listPrice": 18,
+    "basePrice": 15.72
+  },
+  {
+    "sku_id": "15338",
+    "costPrice": 1,
+    "listPrice": 18,
+    "basePrice": 15.72
+  },
+  {
+    "sku_id": "15006",
+    "costPrice": 1,
+    "listPrice": 18,
+    "basePrice": 15.29
+  },
+  {
+    "sku_id": "15146",
+    "costPrice": 1,
+    "listPrice": 18,
+    "basePrice": 15.29
+  },
+  {
+    "sku_id": "14954",
+    "costPrice": 1,
+    "listPrice": 18,
+    "basePrice": 15.29
+  },
+  {
+    "sku_id": "15148",
+    "costPrice": 1,
+    "listPrice": 18,
+    "basePrice": 15.29
+  },
+  {
+    "sku_id": "15008",
+    "costPrice": 1,
+    "listPrice": 18,
+    "basePrice": 15.29
+  },
+  {
+    "sku_id": "15440",
+    "costPrice": 1,
+    "listPrice": 18,
+    "basePrice": 15.29
+  },
+  {
+    "sku_id": "14952",
+    "costPrice": 1,
+    "listPrice": 18,
+    "basePrice": 15.29
+  },
+  {
+    "sku_id": "14974",
+    "costPrice": 1,
+    "listPrice": 18,
+    "basePrice": 15.29
+  },
+  {
+    "sku_id": "15212",
+    "costPrice": 1,
+    "listPrice": 18,
+    "basePrice": 15.29
+  },
+  {
+    "sku_id": "14948",
+    "costPrice": 1,
+    "listPrice": 18,
+    "basePrice": 15.29
+  },
+  {
+    "sku_id": "14928",
+    "costPrice": 1,
+    "listPrice": 18,
+    "basePrice": 15.29
+  },
+  {
+    "sku_id": "14978",
+    "costPrice": 1,
+    "listPrice": 18,
+    "basePrice": 15.29
+  },
+  {
+    "sku_id": "15012",
+    "costPrice": 1,
+    "listPrice": 18,
+    "basePrice": 15.29
+  },
+  {
+    "sku_id": "15032",
+    "costPrice": 1,
+    "listPrice": 18,
+    "basePrice": 15.29
+  },
+  {
+    "sku_id": "15038",
+    "costPrice": 1,
+    "listPrice": 18,
+    "basePrice": 15.29
+  },
+  {
+    "sku_id": "15130",
+    "costPrice": 1,
+    "listPrice": 18,
+    "basePrice": 15.29
+  },
+  {
+    "sku_id": "15172",
+    "costPrice": 1,
+    "listPrice": 18,
+    "basePrice": 15.29
+  },
+  {
+    "sku_id": "15318",
+    "costPrice": 1,
+    "listPrice": 18,
+    "basePrice": 15.29
+  },
+  {
+    "sku_id": "15314",
+    "costPrice": 1,
+    "listPrice": 17,
+    "basePrice": 14.44
+  },
+  {
+    "sku_id": "14988",
+    "costPrice": 1,
+    "listPrice": 17,
+    "basePrice": 14.44
+  },
+  {
+    "sku_id": "15046",
+    "costPrice": 1,
+    "listPrice": 17,
+    "basePrice": 14.44
+  },
+  {
+    "sku_id": "15120",
+    "costPrice": 1,
+    "listPrice": 17,
+    "basePrice": 14.44
+  },
+  {
+    "sku_id": "15278",
+    "costPrice": 1,
+    "listPrice": 17,
+    "basePrice": 14.44
+  },
+  {
+    "sku_id": "15478",
+    "costPrice": 1,
+    "listPrice": 17,
+    "basePrice": 14.44
+  },
+  {
+    "sku_id": "15514",
+    "costPrice": 1,
+    "listPrice": 17,
+    "basePrice": 14.44
+  },
+  {
+    "sku_id": "14994",
+    "costPrice": 1,
+    "listPrice": 17,
+    "basePrice": 14.44
+  },
+  {
+    "sku_id": "15030",
+    "costPrice": 1,
+    "listPrice": 17,
+    "basePrice": 14.44
+  },
+  {
+    "sku_id": "15056",
+    "costPrice": 1,
+    "listPrice": 17,
+    "basePrice": 14.44
+  },
+  {
+    "sku_id": "15058",
+    "costPrice": 1,
+    "listPrice": 17,
+    "basePrice": 14.44
+  },
+  {
+    "sku_id": "15064",
+    "costPrice": 1,
+    "listPrice": 17,
+    "basePrice": 14.44
+  },
+  {
+    "sku_id": "15084",
+    "costPrice": 1,
+    "listPrice": 17,
+    "basePrice": 14.44
+  },
+  {
+    "sku_id": "15106",
+    "costPrice": 1,
+    "listPrice": 17,
+    "basePrice": 14.44
+  },
+  {
+    "sku_id": "15108",
+    "costPrice": 1,
+    "listPrice": 17,
+    "basePrice": 14.44
+  },
+  {
+    "sku_id": "15118",
+    "costPrice": 1,
+    "listPrice": 16,
+    "basePrice": 13.6
+  },
+  {
+    "sku_id": "15132",
+    "costPrice": 1,
+    "listPrice": 16,
+    "basePrice": 13.59
+  },
+  {
+    "sku_id": "15134",
+    "costPrice": 1,
+    "listPrice": 16,
+    "basePrice": 13.59
+  },
+  {
+    "sku_id": "15136",
+    "costPrice": 1,
+    "listPrice": 16,
+    "basePrice": 13.59
+  },
+  {
+    "sku_id": "15302",
+    "costPrice": 1,
+    "listPrice": 16,
+    "basePrice": 13.59
+  },
+  {
+    "sku_id": "15192",
+    "costPrice": 1,
+    "listPrice": 16,
+    "basePrice": 13.59
+  },
+  {
+    "sku_id": "15186",
+    "costPrice": 1,
+    "listPrice": 16,
+    "basePrice": 13.59
+  },
+  {
+    "sku_id": "15532",
+    "costPrice": 1,
+    "listPrice": 16,
+    "basePrice": 13.59
+  },
+  {
+    "sku_id": "15346",
+    "costPrice": 1,
+    "listPrice": 16,
+    "basePrice": 13.59
+  },
+  {
+    "sku_id": "15328",
+    "costPrice": 1,
+    "listPrice": 16,
+    "basePrice": 13.59
+  },
+  {
+    "sku_id": "14932",
+    "costPrice": 1,
+    "listPrice": 16,
+    "basePrice": 13.59
+  },
+  {
+    "sku_id": "15326",
+    "costPrice": 1,
+    "listPrice": 16,
+    "basePrice": 13.59
+  },
+  {
+    "sku_id": "15140",
+    "costPrice": 1,
+    "listPrice": 16,
+    "basePrice": 13.59
+  },
+  {
+    "sku_id": "15048",
+    "costPrice": 1,
+    "listPrice": 16,
+    "basePrice": 13.59
+  },
+  {
+    "sku_id": "15206",
+    "costPrice": 1,
+    "listPrice": 16,
+    "basePrice": 13.59
+  },
+  {
+    "sku_id": "15334",
+    "costPrice": 1,
+    "listPrice": 16,
+    "basePrice": 13.59
+  },
+  {
+    "sku_id": "15336",
+    "costPrice": 1,
+    "listPrice": 16,
+    "basePrice": 13.59
+  },
+  {
+    "sku_id": "15128",
+    "costPrice": 1,
+    "listPrice": 16,
+    "basePrice": 13.59
+  },
+  {
+    "sku_id": "15272",
+    "costPrice": 1,
+    "listPrice": 16,
+    "basePrice": 13.59
+  },
+  {
+    "sku_id": "15274",
+    "costPrice": 1,
+    "listPrice": 15,
+    "basePrice": 13.17
+  },
+  {
+    "sku_id": "15414",
+    "costPrice": 1,
+    "listPrice": 15,
+    "basePrice": 12.74
+  },
+  {
+    "sku_id": "15418",
+    "costPrice": 1,
+    "listPrice": 15,
+    "basePrice": 12.74
+  },
+  {
+    "sku_id": "15446",
+    "costPrice": 1,
+    "listPrice": 15,
+    "basePrice": 12.74
+  },
+  {
+    "sku_id": "15464",
+    "costPrice": 1,
+    "listPrice": 14,
+    "basePrice": 12.32
+  },
+  {
+    "sku_id": "15492",
+    "costPrice": 1,
+    "listPrice": 14,
+    "basePrice": 12.32
+  },
+  {
+    "sku_id": "15498",
+    "costPrice": 1,
+    "listPrice": 14,
+    "basePrice": 12.32
+  },
+  {
+    "sku_id": "15502",
+    "costPrice": 1,
+    "listPrice": 14,
+    "basePrice": 11.94
+  },
+  {
+    "sku_id": "15266",
+    "costPrice": 1,
+    "listPrice": 14,
+    "basePrice": 11.9
+  },
+  {
+    "sku_id": "14936",
+    "costPrice": 1,
+    "listPrice": 14,
+    "basePrice": 11.9
+  },
+  {
+    "sku_id": "15044",
+    "costPrice": 1,
+    "listPrice": 14,
+    "basePrice": 11.89
+  },
+  {
+    "sku_id": "15322",
+    "costPrice": 1,
+    "listPrice": 14,
+    "basePrice": 11.89
+  },
+  {
+    "sku_id": "15020",
+    "costPrice": 1,
+    "listPrice": 14,
+    "basePrice": 11.89
+  },
+  {
+    "sku_id": "15168",
+    "costPrice": 1,
+    "listPrice": 14,
+    "basePrice": 11.89
+  },
+  {
+    "sku_id": "15000",
+    "costPrice": 1,
+    "listPrice": 14,
+    "basePrice": 11.89
+  },
+  {
+    "sku_id": "15488",
+    "costPrice": 1,
+    "listPrice": 14,
+    "basePrice": 11.89
+  },
+  {
+    "sku_id": "15178",
+    "costPrice": 1,
+    "listPrice": 14,
+    "basePrice": 11.89
+  },
+  {
+    "sku_id": "15350",
+    "costPrice": 1,
+    "listPrice": 14,
+    "basePrice": 11.89
+  },
+  {
+    "sku_id": "15352",
+    "costPrice": 1,
+    "listPrice": 14,
+    "basePrice": 11.89
+  },
+  {
+    "sku_id": "15196",
+    "costPrice": 1,
+    "listPrice": 14,
+    "basePrice": 11.89
+  },
+  {
+    "sku_id": "15024",
+    "costPrice": 1,
+    "listPrice": 13,
+    "basePrice": 11.69
+  },
+  {
+    "sku_id": "15232",
+    "costPrice": 1,
+    "listPrice": 13,
+    "basePrice": 11.69
+  },
+  {
+    "sku_id": "14976",
+    "costPrice": 1,
+    "listPrice": 12,
+    "basePrice": 10.79
+  },
+  {
+    "sku_id": "14990",
+    "costPrice": 1,
+    "listPrice": 12,
+    "basePrice": 10.79
+  },
+  {
+    "sku_id": "15288",
+    "costPrice": 1,
+    "listPrice": 12,
+    "basePrice": 10.79
+  },
+  {
+    "sku_id": "15294",
+    "costPrice": 1,
+    "listPrice": 12,
+    "basePrice": 10.79
+  },
+  {
+    "sku_id": "15340",
+    "costPrice": 1,
+    "listPrice": 12,
+    "basePrice": 10.79
+  },
+  {
+    "sku_id": "15410",
+    "costPrice": 1,
+    "listPrice": 12,
+    "basePrice": 10.79
+  },
+  {
+    "sku_id": "15438",
+    "costPrice": 1,
+    "listPrice": 12,
+    "basePrice": 10.79
+  },
+  {
+    "sku_id": "15482",
+    "costPrice": 1,
+    "listPrice": 12,
+    "basePrice": 10.79
+  },
+  {
+    "sku_id": "15512",
+    "costPrice": 1,
+    "listPrice": 12,
+    "basePrice": 10.79
+  },
+  {
+    "sku_id": "15450",
+    "costPrice": 1,
+    "listPrice": 12,
+    "basePrice": 10.79
+  },
+  {
+    "sku_id": "15518",
+    "costPrice": 1,
+    "listPrice": 12,
+    "basePrice": 10.79
+  },
+  {
+    "sku_id": "14938",
+    "costPrice": 1,
+    "listPrice": 12,
+    "basePrice": 10.79
+  },
+  {
+    "sku_id": "14950",
+    "costPrice": 1,
+    "listPrice": 12,
+    "basePrice": 10.79
+  },
+  {
+    "sku_id": "14962",
+    "costPrice": 1,
+    "listPrice": 12,
+    "basePrice": 10.79
+  },
+  {
+    "sku_id": "14970",
+    "costPrice": 1,
+    "listPrice": 12,
+    "basePrice": 10.79
+  },
+  {
+    "sku_id": "14980",
+    "costPrice": 1,
+    "listPrice": 12,
+    "basePrice": 10.79
+  },
+  {
+    "sku_id": "14982",
+    "costPrice": 1,
+    "listPrice": 12,
+    "basePrice": 10.79
+  },
+  {
+    "sku_id": "15258",
+    "costPrice": 1,
+    "listPrice": 12,
+    "basePrice": 10.79
+  },
+  {
+    "sku_id": "15270",
+    "costPrice": 1,
+    "listPrice": 12,
+    "basePrice": 10.79
+  },
+  {
+    "sku_id": "14986",
+    "costPrice": 1,
+    "listPrice": 12,
+    "basePrice": 10.79
+  },
+  {
+    "sku_id": "14956",
+    "costPrice": 1,
+    "listPrice": 12,
+    "basePrice": 10.79
+  },
+  {
+    "sku_id": "14958",
+    "costPrice": 1,
+    "listPrice": 12,
+    "basePrice": 10.79
+  },
+  {
+    "sku_id": "14964",
+    "costPrice": 1,
+    "listPrice": 12,
+    "basePrice": 10.79
+  },
+  {
+    "sku_id": "15072",
+    "costPrice": 1,
+    "listPrice": 12,
+    "basePrice": 10.79
+  },
+  {
+    "sku_id": "15076",
+    "costPrice": 1,
+    "listPrice": 12,
+    "basePrice": 10.79
+  },
+  {
+    "sku_id": "15082",
+    "costPrice": 1,
+    "listPrice": 11,
+    "basePrice": 10.34
+  },
+  {
+    "sku_id": "15126",
+    "costPrice": 1,
+    "listPrice": 11,
+    "basePrice": 10.34
+  },
+  {
+    "sku_id": "14946",
+    "costPrice": 1,
+    "listPrice": 11,
+    "basePrice": 10.34
+  },
+  {
+    "sku_id": "15280",
+    "costPrice": 1,
+    "listPrice": 11,
+    "basePrice": 10.34
+  },
+  {
+    "sku_id": "15452",
+    "costPrice": 1,
+    "listPrice": 11,
+    "basePrice": 10.34
+  },
+  {
+    "sku_id": "15454",
+    "costPrice": 1,
+    "listPrice": 11,
+    "basePrice": 10.34
+  },
+  {
+    "sku_id": "15472",
+    "costPrice": 1,
+    "listPrice": 11,
+    "basePrice": 10.34
+  },
+  {
+    "sku_id": "15474",
+    "costPrice": 1,
+    "listPrice": 11,
+    "basePrice": 10.34
+  },
+  {
+    "sku_id": "15490",
+    "costPrice": 1,
+    "listPrice": 11,
+    "basePrice": 10.34
+  },
+  {
+    "sku_id": "15516",
+    "costPrice": 1,
+    "listPrice": 11,
+    "basePrice": 10.34
+  },
+  {
+    "sku_id": "15522",
+    "costPrice": 1,
+    "listPrice": 11,
+    "basePrice": 10.34
+  },
+  {
+    "sku_id": "14972",
+    "costPrice": 1,
+    "listPrice": 11,
+    "basePrice": 10.34
+  },
+  {
+    "sku_id": "15182",
+    "costPrice": 1,
+    "listPrice": 11,
+    "basePrice": 10.34
+  },
+  {
+    "sku_id": "15324",
+    "costPrice": 1,
+    "listPrice": 11,
+    "basePrice": 10.34
+  },
+  {
+    "sku_id": "15014",
+    "costPrice": 1,
+    "listPrice": 11,
+    "basePrice": 10.34
+  },
+  {
+    "sku_id": "15156",
+    "costPrice": 1,
+    "listPrice": 11,
+    "basePrice": 10.34
+  },
+  {
+    "sku_id": "15320",
+    "costPrice": 1,
+    "listPrice": 11,
+    "basePrice": 10.34
+  },
+  {
+    "sku_id": "14944",
+    "costPrice": 1,
+    "listPrice": 11,
+    "basePrice": 10.34
+  },
+  {
+    "sku_id": "14992",
+    "costPrice": 1,
+    "listPrice": 11,
+    "basePrice": 10.34
+  },
+  {
+    "sku_id": "15010",
+    "costPrice": 1,
+    "listPrice": 11,
+    "basePrice": 10.34
+  },
+  {
+    "sku_id": "15092",
+    "costPrice": 1,
+    "listPrice": 11,
+    "basePrice": 10.34
+  },
+  {
+    "sku_id": "15094",
+    "costPrice": 1,
+    "listPrice": 11,
+    "basePrice": 10.34
+  },
+  {
+    "sku_id": "15098",
+    "costPrice": 1,
+    "listPrice": 11,
+    "basePrice": 10.34
+  },
+  {
+    "sku_id": "15160",
+    "costPrice": 1,
+    "listPrice": 11,
+    "basePrice": 10.34
+  },
+  {
+    "sku_id": "15260",
+    "costPrice": 1,
+    "listPrice": 11,
+    "basePrice": 10.34
+  },
+  {
+    "sku_id": "15262",
+    "costPrice": 1,
+    "listPrice": 11,
+    "basePrice": 10.34
+  },
+  {
+    "sku_id": "15290",
+    "costPrice": 1,
+    "listPrice": 11,
+    "basePrice": 10.34
+  },
+  {
+    "sku_id": "15296",
+    "costPrice": 1,
+    "listPrice": 11,
+    "basePrice": 10.34
+  },
+  {
+    "sku_id": "15422",
+    "costPrice": 1,
+    "listPrice": 11,
+    "basePrice": 10.34
+  },
+  {
+    "sku_id": "15426",
+    "costPrice": 1,
+    "listPrice": 10,
+    "basePrice": 9.44
+  },
+  {
+    "sku_id": "15434",
+    "costPrice": 1,
+    "listPrice": 10,
+    "basePrice": 8.99
+  },
+  {
+    "sku_id": "15436",
+    "costPrice": 1,
+    "listPrice": 10,
+    "basePrice": 8.99
+  },
+  {
+    "sku_id": "15442",
+    "costPrice": 1,
+    "listPrice": 10,
+    "basePrice": 8.99
+  },
+  {
+    "sku_id": "15458",
+    "costPrice": 1,
+    "listPrice": 10,
+    "basePrice": 8.99
+  },
+  {
+    "sku_id": "15460",
+    "costPrice": 1,
+    "listPrice": 10,
+    "basePrice": 8.99
+  },
+  {
+    "sku_id": "15462",
+    "costPrice": 1,
+    "listPrice": 10,
+    "basePrice": 8.99
+  },
+  {
+    "sku_id": "15466",
+    "costPrice": 1,
+    "listPrice": 10,
+    "basePrice": 8.91
+  },
+  {
+    "sku_id": "15468",
+    "costPrice": 1,
+    "listPrice": 10,
+    "basePrice": 8.91
+  },
+  {
+    "sku_id": "15470",
+    "costPrice": 1,
+    "listPrice": 10,
+    "basePrice": 8.91
+  },
+  {
+    "sku_id": "15476",
+    "costPrice": 1,
+    "listPrice": 9,
+    "basePrice": 8.54
+  },
+  {
+    "sku_id": "15528",
+    "costPrice": 1,
+    "listPrice": 9,
+    "basePrice": 8.54
+  },
+  {
+    "sku_id": "15086",
+    "costPrice": 1,
+    "listPrice": 8,
+    "basePrice": 7.64
+  },
+  {
+    "sku_id": "15316",
+    "costPrice": 1,
+    "listPrice": 8,
+    "basePrice": 7.19
+  },
+  {
+    "sku_id": "15306",
+    "costPrice": 1,
+    "listPrice": 7,
+    "basePrice": 6.74
+  },
+  {
+    "sku_id": "15292",
+    "costPrice": 1,
+    "listPrice": 7,
+    "basePrice": 6.74
+  },
+  {
+    "sku_id": "15520",
+    "costPrice": 1,
+    "listPrice": 7,
+    "basePrice": 6.74
+  },
+  {
+    "sku_id": "15526",
+    "costPrice": 1,
+    "listPrice": 7,
+    "basePrice": 6.74
+  },
+  {
+    "sku_id": "15530",
+    "costPrice": 1,
+    "listPrice": 7,
+    "basePrice": 6.74
+  },
+  {
+    "sku_id": "15374",
+    "costPrice": 1,
+    "listPrice": 7,
+    "basePrice": 6.74
+  },
+  {
+    "sku_id": "15376",
+    "costPrice": 1,
+    "listPrice": 7,
+    "basePrice": 6.74
+  },
+  {
+    "sku_id": "15544",
+    "costPrice": 1,
+    "listPrice": 7,
+    "basePrice": 6.74
+  }
+]
