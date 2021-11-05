@@ -29,6 +29,7 @@ func (s *server) Routers() {
 	router.Category(s.app)
 	router.Slug(s.app)
 	router.Formating(s.app)
+	router.ImageSku(s.app)
 }
 
 func (s *server) Listening() {
