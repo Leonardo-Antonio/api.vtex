@@ -1,0 +1,110 @@
+[
+  {
+    "sku_id": "3",
+    "quantity": 10,
+    "unlimitedQuantity": false,
+    "warehouses": "1"
+  },
+  {
+    "sku_id": "4",
+    "quantity": 10,
+    "unlimitedQuantity": false,
+    "warehouses": "1"
+  },
+  {
+    "sku_id": "5",
+    "quantity": 10,
+    "unlimitedQuantity": false,
+    "warehouses": "1"
+  },
+  {
+    "sku_id": "6",
+    "quantity": 10,
+    "unlimitedQuantity": false,
+    "warehouses": "1"
+  },
+  {
+    "sku_id": "7",
+    "quantity": 10,
+    "unlimitedQuantity": false,
+    "warehouses": "1"
+  },
+  {
+    "sku_id": "8",
+    "quantity": 10,
+    "unlimitedQuantity": false,
+    "warehouses": "1"
+  },
+  {
+    "sku_id": "9",
+    "quantity": 10,
+    "unlimitedQuantity": false,
+    "warehouses": "1"
+  },
+  {
+    "sku_id": "10",
+    "quantity": 10,
+    "unlimitedQuantity": false,
+    "warehouses": "1"
+  },
+  {
+    "sku_id": "11",
+    "quantity": 10,
+    "unlimitedQuantity": false,
+    "warehouses": "1"
+  },
+  {
+    "sku_id": "12",
+    "quantity": 10,
+    "unlimitedQuantity": false,
+    "warehouses": "1"
+  },
+  {
+    "sku_id": "13",
+    "quantity": 10,
+    "unlimitedQuantity": false,
+    "warehouses": "1"
+  },
+  {
+    "sku_id": "14",
+    "quantity": 10,
+    "unlimitedQuantity": false,
+    "warehouses": "1"
+  },
+  {
+    "sku_id": "15",
+    "quantity": 10,
+    "unlimitedQuantity": false,
+    "warehouses": "1"
+  },
+  {
+    "sku_id": "16",
+    "quantity": 10,
+    "unlimitedQuantity": false,
+    "warehouses": "1"
+  },
+  {
+    "sku_id": "17",
+    "quantity": 10,
+    "unlimitedQuantity": false,
+    "warehouses": "1"
+  },
+  {
+    "sku_id": "18",
+    "quantity": 10,
+    "unlimitedQuantity": false,
+    "warehouses": "1"
+  },
+  {
+    "sku_id": "19",
+    "quantity": 10,
+    "unlimitedQuantity": false,
+    "warehouses": "1"
+  },
+  {
+    "sku_id": "20",
+    "quantity": 10,
+    "unlimitedQuantity": false,
+    "warehouses": "1"
+  }
+]

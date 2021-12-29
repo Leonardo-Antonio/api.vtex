@@ -1,0 +1,95 @@
+{
+  "Sheet1": [
+    {
+      "Id": "51",
+      "Name": "ECENTER_SERVICIOS",
+      "Keywords": "ECENTER_SERVICIOS",
+      "Title": "ECENTER_SERVICIOS",
+      "Description": "ECENTER_SERVICIOS",
+      "FatherCategoryId": 13,
+      "GlobalCategoryId": 222,
+      "ShowInStoreFront": true,
+      "IsActive": true,
+      "ActiveStoreFrontLink": true,
+      "ShowBrandFilter": true
+    },
+    {
+      "Id": "52",
+      "Name": "ECENTER_GESTION",
+      "Keywords": "ECENTER_GESTION",
+      "Title": "ECENTER_GESTION",
+      "Description": "ECENTER_GESTION",
+      "FatherCategoryId": 13,
+      "GlobalCategoryId": 222,
+      "ShowInStoreFront": true,
+      "IsActive": true,
+      "ActiveStoreFrontLink": true,
+      "ShowBrandFilter": true
+    },
+    {
+      "Id": "53",
+      "Name": "ECENTER_CONSTRUCCION",
+      "Keywords": "ECENTER_CONSTRUCCION",
+      "Title": "ECENTER_CONSTRUCCION",
+      "Description": "ECENTER_CONSTRUCCION",
+      "FatherCategoryId": 13,
+      "GlobalCategoryId": 222,
+      "ShowInStoreFront": true,
+      "IsActive": true,
+      "ActiveStoreFrontLink": true,
+      "ShowBrandFilter": true
+    },
+    {
+      "Id": "54",
+      "Name": "ECENTER_FABRICACION",
+      "Keywords": "ECENTER_FABRICACION",
+      "Title": "ECENTER_FABRICACION",
+      "Description": "ECENTER_FABRICACION",
+      "FatherCategoryId": 13,
+      "GlobalCategoryId": 222,
+      "ShowInStoreFront": true,
+      "IsActive": true,
+      "ActiveStoreFrontLink": true,
+      "ShowBrandFilter": true
+    },
+    {
+      "Id": "55",
+      "Name": "ECENTER_LIMPIEZA",
+      "Keywords": "ECENTER_LIMPIEZA",
+      "Title": "ECENTER_LIMPIEZA",
+      "Description": "ECENTER_LIMPIEZA",
+      "FatherCategoryId": 13,
+      "GlobalCategoryId": 222,
+      "ShowInStoreFront": true,
+      "IsActive": true,
+      "ActiveStoreFrontLink": true,
+      "ShowBrandFilter": true
+    },
+    {
+      "Id": "56",
+      "Name": "ECENTER_MANTENIMIENTO MECANICO",
+      "Keywords": "ECENTER_MANTENIMIENTO MECANICO",
+      "Title": "ECENTER_MANTENIMIENTO MECANICO",
+      "Description": "ECENTER_MANTENIMIENTO MECANICO",
+      "FatherCategoryId": 13,
+      "GlobalCategoryId": 222,
+      "ShowInStoreFront": true,
+      "IsActive": true,
+      "ActiveStoreFrontLink": true,
+      "ShowBrandFilter": true
+    },
+    {
+      "Id": "57",
+      "Name": "ECENTER_TRANSPORTE",
+      "Keywords": "ECENTER_TRANSPORTE",
+      "Title": "ECENTER_TRANSPORTE",
+      "Description": "ECENTER_TRANSPORTE",
+      "FatherCategoryId": 13,
+      "GlobalCategoryId": 222,
+      "ShowInStoreFront": true,
+      "IsActive": true,
+      "ActiveStoreFrontLink": true,
+      "ShowBrandFilter": true
+    }
+  ]
+}

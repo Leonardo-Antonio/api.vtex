@@ -1,6 +1,7 @@
 package entity
 
 type Category struct {
+	Id                   string `json:"Id,omitempty"`
 	Name                 string `json:"Name,omitempty"`
 	Keywords             string `json:"Keywords,omitempty"`
 	Title                string `json:"Title,omitempty"`
